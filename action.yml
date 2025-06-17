@@ -1,4 +1,4 @@
-name: 'Sync Docker image to registry'
+name: 'Docker Sync'
 description: 'Pull an image from one registry and push to another'
 branding:
   icon: cloud
