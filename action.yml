@@ -1,5 +1,5 @@
-name: 'Sync Docker Image to Registry'
-description: 'pull an image from one registry and push to another'
+name: 'Sync Docker image to registry'
+description: 'Pull an image from one registry and push to another'
 branding:
   icon: cloud
   color: blue
@@ -23,5 +23,5 @@ inputs:
     description: the password for the target registry
     required: false
 runs:
-  using: 'node16'
+  using: 'node20'
   main: 'dist/index.js'

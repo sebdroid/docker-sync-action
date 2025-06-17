@@ -1,7 +1,6 @@
-# Github Actions
+# Sync Docker image to registry
 
-A template for making new github actions.
-
+Pull an image from one registry and push to another
 # Author
 
 [onichandame](https://onichandame.com)
