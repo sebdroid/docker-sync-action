@@ -6,6 +6,8 @@ Pull an image from one registry and push to another
 
 [sebdroid](https://github.com/sebdroid)
 
+Based on [docker-registry-sync-action] by [onichandame](https://onichandame.com).
+
 # Usage
 
 ```yaml
